@@ -3,15 +3,10 @@
 config
 
 ({
-
 "materialized":'table',
-
 "pre_hook": copy_json('COUNTRY_DETAILS_CP'),
-
 "schema": 'RAW'
-
 })
-
 }}
 
  

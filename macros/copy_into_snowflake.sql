@@ -28,6 +28,4 @@ FILE_FORMAT = (TYPE = JSON)
 
 FORCE = TRUE;
 
- 
-
 {% endmacro %}

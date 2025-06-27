@@ -1,7 +1,5 @@
 version: 2
 
- 
-
 models:
 
     - name: country_details_raw
